@@ -23,7 +23,7 @@
         /* Active (current page) link */
         nav a.active {
         background-color: #b9d0c8;  /*a green highlight */
-        opacity: 0.5;
+
         font-weight: bold;          /* make it stand out */
 
         }
